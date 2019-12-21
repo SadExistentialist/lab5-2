@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 40709832510e0904da02e84fa681885f
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 4d4d8f7ae75dc7b449d3745594710475
+  - enabled: 1
+    path: Assets/Scenes/Find a Couple.unity
+    guid: feed153702475b24791fbdfc8cced833
+  - enabled: 1
+    path: Assets/Scenes/MenuFC.unity
+    guid: 917c2b9dbfffe334fb8e751661f0e865
